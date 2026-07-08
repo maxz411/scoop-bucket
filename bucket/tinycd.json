@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Tiny polling and webhook based deployments",
     "homepage": "https://github.com/maxz411/tinycd",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/maxz411/tinycd/releases/download/v0.2.0/tinycd-x86_64-pc-windows-msvc.zip",
-            "hash": "ea984178959468014551cb8eae73f69a6ede33aa374ab4aeba84326c9dd9f208"
+            "url": "https://github.com/maxz411/tinycd/releases/download/v0.3.0/tinycd-x86_64-pc-windows-msvc.zip",
+            "hash": "15ead31d3dc5069fd409a0e88293f029c9e6001e9f6e4dd53f9ebbc6f209e047"
         }
     },
     "bin": "tinycd.exe",
